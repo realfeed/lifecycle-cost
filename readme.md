@@ -14,6 +14,8 @@ Activate a virtual environment and install requirements:
 
 Call each of the functions in class `Building()` in the order displayed in the `building.py` script.
 
+Class `Building()` requires definition of the source workbook fully qualified filename from the root directory as `wb` and worksheet name as `name`.
+
 This will require defining the variables `size_of_factor_sample` and `number_of_element_cost_samples` which affect rigour and processing time (default value = 1000).
 
 This will also require definition of:
