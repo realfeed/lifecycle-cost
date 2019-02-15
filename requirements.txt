@@ -1,2 +1,8 @@
 numpy
 plotly
+openpyxl
+notebook
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
